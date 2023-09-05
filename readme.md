@@ -25,12 +25,21 @@ Ich möchte mich <mark>langsam an das Thema Programmieren</mark> herran Tasten, 
 
 - [ -] Ein Modul fertig machen mit Kurztest.
 
-Heute hab ich mich wie gesagt langsam an das thema Programmieren heran getastet. Ich habe mich ein bisschen übersetzt und konnte dadurch nicht jedes Arbeitspaket machen. Dafür habe ich dafür die Arbeitspackete, die ich gemacht habe richtig und und Gut gemacht. Das wichtigste ist das ich langsam verstehe wie ich Programiere, und auf was ich achten muss. (56 Wörter)
+Heute habe ich mich wie gesagt langsam an das thema Programmieren heran getastet. Ich habe mich ein bisschen übersetzt und konnte dadurch nicht jedes Arbeitspaket machen. Dafür habe ich dafür die Arbeitspackete, die ich gemacht habe richtig und und Gut gemacht. Das wichtigste ist das ich langsam verstehe wie ich Programiere, und auf was ich achten muss. (56 Wörter)
 
-##Arbeitspakete für 05.09.2023
+## Arbeitspakete für 05.09.2023
 
--[] module fertig machen
--[] Zahlen errat spiel programieren 
--[]E-dokumentation informieren
--[]Fragen fort gehänd schreiben
+- [x] module fertig machen
+- [-] Zahlen errat spiel programieren 
+- [x] E-dokumentation informieren
+- [x] Fragen fort gehänd schreiben
 
+
+Die heutige Lernatelierlektion war ein bisschen knifflig, bei ein paar Aufträgen war mir das Ziel und der Ablauf genau klar bei anderen ein bisschen schwierig und unklar. Zum Beispiel bei einem Moodle auftrag kenne ich klar das ziel und weiss wie ich es löse, aber zum beispiel bei dm Zahlen spiel ist es schwierig zu plannen wie ich vorgehe, ich musste oft mals hiilfe suchen Online. (66 Wörter)
+
+## Arbeitspaket für 12.09.23
+
+- [] Zahlen Spiel fertig Programmieren
+- [] 1 modul fertig stellen
+- [] an kurs 431 arbeiten da wir letzes Mal SChulreise hatten 
+- [] Notenrechner schreiben
