@@ -39,7 +39,7 @@ Die heutige Lernatelierlektion war ein bisschen knifflig, bei ein paar Aufträge
 
 ## Arbeitspaket für 12.09.23
 
-- [] Zahlen Spiel fertig Programmieren
-- [] 1 modul fertig stellen
-- [] an kurs 431 arbeiten da wir letzes Mal SChulreise hatten 
-- [] Notenrechner schreiben
+- [ ] Zahlen Spiel fertig Programmieren
+- [ ] 1 modul fertig stellen
+- [ ] an kurs 431 arbeiten da wir letzes Mal SChulreise hatten 
+- [ ] Notenrechner schreiben
