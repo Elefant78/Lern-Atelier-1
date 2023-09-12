@@ -39,7 +39,17 @@ Die heutige Lernatelierlektion war ein bisschen knifflig, bei ein paar Aufträge
 
 ## Arbeitspaket für 12.09.23
 
-- [ ] Zahlen Spiel fertig Programmieren
-- [ ] 1 modul fertig stellen
-- [ ] an kurs 431 arbeiten da wir letzes Mal SChulreise hatten 
-- [ ] Notenrechner schreiben
+- [X] Zahlen Spiel fertig Programmieren
+- [X] 1 modul fertig stellen
+- [X] an kurs 431 arbeiten da wir letzes Mal SChulreise hatten 
+- [ ] Notenrechner programmieren
+
+
+Heute war ein gute Lernatelier Stunde, denn ich konnte verschiedenste Arbeitspakete gut erledigen. Manche waren doch eine Knacknuss andere wieder straight forward. Ich konnte gut an den Modulen Arbeiten, und gut aufholen. Das Programmieren bereitet mir an manchen stellen immer noch Probleme, denn ich weiss oftmals nicht wie ich einen Fehler schnell erkenne und lösen kann. (56 Wörter)
+
+## Arbeitspaket für 19.09.23
+
+- [ ] 
+- [ ]
+- [ ]
+- [ ]
