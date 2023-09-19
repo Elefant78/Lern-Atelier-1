@@ -17,13 +17,13 @@ Ich möchte mich <mark>langsam an das Thema Programmieren</mark> herran Tasten, 
 
 
 
-- [X] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
+- [X] Ein Programm,  welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 
 - [-] ich informiere mich wie eine gute E-Dokumentation aus sieht und mach mir Notizen
 
 - [X] verschiedene Videos zu c# anschauen und etwas programmieren, das nach deinen Tag fragt und verschiedene antworten gibt.
 
-- [ -] Ein Modul fertig machen mit Kurztest.
+- [-] Ein Modul fertig machen mit Kurztest.
 
 Heute habe ich mich wie gesagt langsam an das thema Programmieren heran getastet. Ich habe mich ein bisschen übersetzt und konnte dadurch nicht jedes Arbeitspaket machen. Dafür habe ich dafür die Arbeitspackete, die ich gemacht habe richtig und und Gut gemacht. Das wichtigste ist das ich langsam verstehe wie ich Programiere, und auf was ich achten muss. (56 Wörter)
 
@@ -49,7 +49,15 @@ Heute war ein gute Lernatelier Stunde, denn ich konnte verschiedenste Arbeitspak
 
 ## Arbeitspaket für 19.09.23
 
-- [ ] 
-- [ ]
-- [ ]
-- [ ]
+- [x] Modul 431
+- [x] Modul 319
+- [x] Youtube video für Programmieren Lernen
+- [x] Über ein neues Projekt nachdenken
+  
+## Arbeitspaket für 26.09.23
+
+Heute war ein bisschen kniffelig, denn der Auftrag 1721 im  Modul 431 war sehr lang, dieser gab auch 10 Punkte und ich habe sehr konzentriert gearbeitet. Zudem habe ich besser verstanden wie man in Pertnerarbeit arbeitet, da ich mich gut mit meinen Nachbar über Probleme aus getauscht habe. Die YouTube Videos sind auch sehr hilfreich, denn dieser Youtuber erklärt es sehr gut.
+
+- [ ] Modul 431, 1711 experten Ziele
+- [ ] Modul 431, 1712 experten Ziele
+- [ ] Geldautomat Probramieren 
