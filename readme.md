@@ -60,4 +60,8 @@ Heute war ein bisschen kniffelig, denn der Auftrag 1721 im  Modul 431 war sehr l
 
 - [ ] Modul 431, 1711 experten Ziele
 - [ ] Modul 431, 1712 experten Ziele
-- [ ] Geldautomat Probramieren 
+- [ ] Geldautomat Probramieren
+## Reflexion von der ersten Lernperiode
+
+Ich habe jetzt meine erste Lernperiode hinter mir und habe viel Neues gelernt, sei es das Programmieren oder das Selbstständige Arbeiten. Es hat mir gezeigt das ich manche Dinge anderes Angehen muss um diese zu lernen. Gewisse Punkt in meiner Arbeitsart muss ich ändern, so wie zum Beispiel, dass ich wenn ich etwas nicht verstehe, anstatt es weiter zu versuchen gebe ich zu leicht auf und bin danach nicht mehr so Konzentriert. Wenn ich das ändere, kann ich besser mit Themen abschließen und besser weitere Lernen. Ein Beispiel, wäre als ich das Zahlenspiel nicht auf anhieb verstanden habe mich zu sehr aufgeregt und gab zu schnell auf
+
