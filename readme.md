@@ -25,7 +25,7 @@ Ich möchte mich <mark>langsam an das Thema Programmieren</mark> herran Tasten, 
 
 - [-] Ein Modul fertig machen mit Kurztest.
 
-Heute habe ich mich wie gesagt langsam an das thema Programmieren heran getastet. Ich habe mich ein bisschen übersetzt und konnte dadurch nicht jedes Arbeitspaket machen. Dafür habe ich dafür die Arbeitspackete, die ich gemacht habe richtig und und Gut gemacht. Das wichtigste ist das ich langsam verstehe wie ich Programiere, und auf was ich achten muss. (56 Wörter)
+Heute habe ich mich wie gesagt langsam an das thema Programmieren heran getastet. Ich habe mich ein bisschen übersätzt und konnte dadurch nicht jedes Arbeitspaket machen. Dafür habe ich dafür die Arbeitspackete, die ich gemacht habe richtig und und Gut gemacht. Das wichtigste ist das ich langsam verstehe wie ich Programiere, und auf was ich achten muss. (56 Wörter)
 
 ## Arbeitspakete für 05.09.2023
 
